@@ -1,35 +1,36 @@
-101106109.xyz
-103106109.xyz
-speed.cloudflare.com
-mirror.aliyuncs.com
-softether-network.net
-quickconnect.cn
-synology.me
-quickconnect.to
-checkip.synology.com
-checkip.dyndns.org
-checkipv6.dyndns.org
-ifconfig.co
-api.myip.com
-myip.ipip.net
-ip-api.com
-ip.bczs.net
-ipapi.com
-api.ipify.org
-ipba.cc
-whatismyip.akamai.com
-ip6.seeip.org
-members.3322.org
-api-ipv4.ip.sb
-ddns.oray.com
-ip.3322.net
-nic.changeip.com
-alidns.aliyuncs.com
-aliyuncs.com
-dyndns.com
-dyndns.com
-plex.tv
-pubsub.plex.tv
-analytics.plex.tv
-together.plex.tv
-sonos.plex.tv
+payload:
+  - '+.101106109.xyz'
+  - '+.103106109.xyz'
+  - '+.speed.cloudflare.com'
+  - '+.mirror.aliyuncs.com'
+  - '+.softether-network.net'
+  - '+.quickconnect.cn'
+  - '+.synology.me'
+  - '+.quickconnect.to'
+  - '+.checkip.synology.com'
+  - '+.checkip.dyndns.org'
+  - '+.checkipv6.dyndns.org'
+  - '+.ifconfig.co'
+  - '+.api.myip.com'
+  - '+.myip.ipip.net'
+  - '+.ip-api.com'
+  - '+.ip.bczs.net'
+  - '+.ipapi.com'
+  - '+.api.ipify.org'
+  - '+.ipba.cc'
+  - '+.whatismyip.akamai.com'
+  - '+.ip6.seeip.org'
+  - '+.members.3322.org'
+  - '+.api-ipv4.ip.sb'
+  - '+.ddns.oray.com'
+  - '+.ip.3322.net'
+  - '+.nic.changeip.com'
+  - '+.alidns.aliyuncs.com'
+  - '+.aliyuncs.com'
+  - '+.dyndns.com'
+  - '+.dyndns.com'
+  - 'plex.tv'
+  - '+.pubsub.plex.tv'
+  - '+.analytics.plex.tv'
+  - '+.together.plex.tv'
+  - '+.sonos.plex.tv'

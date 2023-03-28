@@ -4,7 +4,6 @@ payload:
   - '+.sentry.io'
   - '+.hcaptcha.com'
   - '+.recaptcha.net'
-  - '+.bing.com'
   - '+.vimeocdn.com'
   - '+.akamaized.com'
   - '+.vimeo.com'

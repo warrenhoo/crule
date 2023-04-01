@@ -1,5 +1,6 @@
 payload:
-  #- DST-PORT,32400,DIRECT
+  - DOMAIN-SUFFIX,19841985.xyz,DIRECT
+#- DST-PORT,32400,DIRECT
   #  - GEOIP,PROXY
   #- DOMAIN-SUFFIX,google.com,auto
   #- DOMAIN-KEYWORD,google,auto

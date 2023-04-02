@@ -30,6 +30,7 @@ payload:
   - '+.nic.changeip.com'
   - '+.alidns.aliyuncs.com'
   - '+.aliyuncs.com'
+  - '+.aliyun.com'
   - '+.dyndns.com'
   - '+.dyndns.com'
   - 'plex.tv'

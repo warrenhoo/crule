@@ -2,4 +2,5 @@ payload:
   - '+.torproject.org'
   - '+.torproject.net'
   - '+.v2ex.com'
+  - '+.bing.com'
   

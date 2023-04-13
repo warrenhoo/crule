@@ -11,4 +11,5 @@ payload:
   - '+.doubleclick.net'
   - '+.ai.com'
   - '+.bing.com'
+  - '+.bing.net'
   - '+.bingapis.com'

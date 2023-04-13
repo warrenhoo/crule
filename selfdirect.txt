@@ -38,3 +38,5 @@ payload:
   - '+.analytics.plex.tv'
   - '+.together.plex.tv'
   - '+.sonos.plex.tv'
+  - '+.clash.razord.top'
+  - '+.yacd.haishan.me'

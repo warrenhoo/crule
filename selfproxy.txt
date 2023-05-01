@@ -3,3 +3,4 @@ payload:
   - '+.torproject.net'
   - '+.v2ex.com'
   - '+.telerik.com'
+  - '+.githubusercontent.com'

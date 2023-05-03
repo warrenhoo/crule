@@ -1,10 +1,7 @@
 payload:
-  - '+.goodhome.local'
   - '+.speed.cloudflare.com'
   - '+.mirror.aliyuncs.com'
   - '+.softether-network.net'
-  - '+.quickconnect.cn'
-  - '+.synology.me'
   - '+.quickconnect.to'
   - '+.checkip.synology.com'
   - '+.checkip.dyndns.org'

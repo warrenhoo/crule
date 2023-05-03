@@ -33,3 +33,4 @@ payload:
   - '+.sonos.plex.tv'
   - '+.clash.razord.top'
   - '+.yacd.haishan.me'
+  - '+.101106109.xyz'

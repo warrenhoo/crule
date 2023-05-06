@@ -22,4 +22,5 @@ payload:
   - '20.lan'
   - 'goodhome.local'
   - 'goodhome.lan'
-
+  - '+.synology.me'
+  - '+.19841985.xyz'

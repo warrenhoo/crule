@@ -34,3 +34,4 @@ payload:
   - '+.clash.razord.top'
   - '+.yacd.haishan.me'
   - '+.101106109.xyz'
+  - 'www.duckdns.org'

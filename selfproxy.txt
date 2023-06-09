@@ -4,3 +4,5 @@ payload:
   - '+.v2ex.com'
   - '+.telerik.com'
   - '+.githubusercontent.com'
+  - '+.voachinese.com'
+  - '+.rfa.org'

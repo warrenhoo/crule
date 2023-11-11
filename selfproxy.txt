@@ -6,3 +6,4 @@ payload:
   - '+.githubusercontent.com'
   - '+.voachinese.com'
   - '+.rfa.org'
+  - '+.githubusercontent.com'

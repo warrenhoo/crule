@@ -1,37 +1,67 @@
 payload:
-  - '+.speed.cloudflare.com'
-  - '+.mirror.aliyuncs.com'
-  - '+.softether-network.net'
-  - '+.quickconnect.to'
-  - '+.checkip.synology.com'
-  - '+.checkip.dyndns.org'
-  - '+.checkipv6.dyndns.org'
-  - '+.ifconfig.co'
-  - '+.api.myip.com'
-  - '+.myip.ipip.net'
-  - '+.ip-api.com'
-  - '+.ip.bczs.net'
-  - '+.ipapi.com'
-  - '+.api.ipify.org'
-  - '+.ipba.cc'
-  - '+.whatismyip.akamai.com'
-  - '+.ip6.seeip.org'
-  - '+.members.3322.org'
-  - '+.api-ipv4.ip.sb'
-  - '+.ddns.oray.com'
-  - '+.ip.3322.net'
-  - '+.nic.changeip.com'
-  - '+.alidns.aliyuncs.com'
-#- '+.aliyuncs.com'
-#- '+.aliyun.com'
-  - '+.dyndns.com'
-  - '+.dyndns.com'
-  - 'plex.tv'
-  - '+.pubsub.plex.tv'
-  - '+.analytics.plex.tv'
-  - '+.together.plex.tv'
-  - '+.sonos.plex.tv'
-  - '+.clash.razord.top'
-  - '+.yacd.haishan.me'
-  - '+.101106109.xyz'
-  - 'www.duckdns.org'
+  # === Plex 相关域名（12 个）===
+  - "+.plex.tv" 
+  - "+.clients.plex.tv"
+  - "+.community.plex.tv"
+  - "+.discover.provider.plex.tv"
+  - "+.metadata.provider.plex.tv"
+  - "+.vod.provider.plex.tv"
+  - "+.epg.provider.plex.tv"
+  - "+.features.plex.tv"
+  - "+.pubsub.plex.tv"
+  - "+.analytics.plex.tv"
+  - "+.together.plex.tv"
+  - "+.sonos.plex.tv"
+  
+  # === Google 相关域名（5 个）===
+  - "+.mtalk.google.com"
+  - "+.mtalk4.google.com"
+  - "+.mtalk-staging.google.com"
+  - "+.mtalk-dev.google.com"
+  - "+.services.googleapis.cn"
+  
+  # === IP 地址检测与定位类（18 个）===
+  - "+.api.ipify.org"
+  - "+.api.myip.com"
+  - "+.checkip.dyndns.org"
+  - "+.checkip.synology.com"
+  - "+.checkipv6.dyndns.org"
+  - "+.ddns.oray.com"
+  - "+.dyndns.com"
+  - "+.ifconfig.co"
+  - "+.ip-api.com"
+  - "+.ip.3322.net"
+  - "+.ip6.seeip.org"
+  - "+.ipapi.com"
+  - "+.ipba.cc"
+  - "+.ip.bczs.net"
+  - "+.members.3322.org"              
+  - "+.myip.ipip.net"
+  - "+.api-ipv4.ip.sb"
+  - "+.whatismyip.akamai.com"
+  
+  # === 动态域名与远程互联（6 个）===
+  - "+.duckdns.org"
+  - "+.www.duckdns.org"
+  - "+.quickconnect.to"
+  - "+.nic.changeip.com"
+  - "+.syncthing.net"
+  - "+.softether-network.net"
+  
+  # === CDN 与加速服务（3 个）===
+  - "+.mirror.aliyuncs.com"
+  - "+.speed.cloudflare.com"
+  - "+.cdn.jsdelivr.net"
+  
+  # === Clash 面板与工具类（2 个）===
+  - "+.clash.razord.top"
+  - "+.yacd.haishan.me"
+  
+  # === 杂项与其他域名（11 个）===
+  - "+.101106109.xyz"
+  - "+.alidns.aliyuncs.com"
+  - "+.xn--ngstr-lra8j.com"
+  - "+.xacd.haishan.me"
+  
+  # === 小米 / 国产服务类（新增 1 个）===
+  - "+.market.xiaomi.com"

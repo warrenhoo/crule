@@ -65,6 +65,6 @@ payload:
   - "+.alidns.aliyuncs.com"
   - "+.xn--ngstr-lra8j.com"
   - "+.xacd.haishan.me"
-  - "+.mirror.ghproxy.com"   
+  - "+.mirror.ghproxy.com"
   # === 小米 / 国产服务类（新增 1 个）===
   - "+.market.xiaomi.com"

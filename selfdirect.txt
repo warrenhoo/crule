@@ -59,6 +59,9 @@ payload:
   
   # === 杂项与其他域名（11 个）===
   - "+.101106109.xyz"
+  - "+.87922978.xyz"
+  - "+.gankao.com"
+  - "+.www.ss-english.com"
   - "+.alidns.aliyuncs.com"
   - "+.xn--ngstr-lra8j.com"
   - "+.xacd.haishan.me"

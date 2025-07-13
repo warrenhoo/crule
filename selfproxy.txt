@@ -7,6 +7,7 @@ payload:
   - '+.voachinese.com'
   - '+.rfa.org'
   - '+.githubusercontent.com'
+  - '+.keeflys.com'
   #AI类
   - '+.openai.com'
   - '+.auth0.com'

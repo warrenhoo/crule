@@ -66,6 +66,7 @@ payload:
   - "+.xn--ngstr-lra8j.com"
   - "+.xacd.haishan.me"
   - "+.mirror.ghproxy.com"
-  - "+.p66-plat.ndcjl.com"
+  - "+.ndcjl.com"
+  - "+.qiaoxuesi.com"
   # === 小米 / 国产服务类（新增 1 个）===
   - "+.market.xiaomi.com"

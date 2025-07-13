@@ -71,5 +71,6 @@ payload:
   - "+.tanx.com"
   - "+.snssdk.com"
   - "+.bitwarden.com"
+  - "+.bitwarden.net"
   # === 小米 / 国产服务类（新增 1 个）===
   - "+.market.xiaomi.com"

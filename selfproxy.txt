@@ -27,3 +27,4 @@ payload:
   - '+.openaiapi-site.azureedge.net'
   - '+.stripe.com'
   - '+.challenges.cloudflare.com'
+  - '+.onedrive.live.com'

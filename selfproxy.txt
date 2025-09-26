@@ -10,6 +10,7 @@ payload:
   - '+.keeflys.com'
   - '+.onedrive.live.com'
   - '+.github.io'
+  - '+.metacubex.one'
   #AI类
   - '+.openai.com'
   - '+.auth0.com'

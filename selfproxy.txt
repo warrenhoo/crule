@@ -8,6 +8,8 @@ payload:
   - '+.rfa.org'
   - '+.githubusercontent.com'
   - '+.keeflys.com'
+  - '+.onedrive.live.com'
+  - '+.github.io'
   #AI类
   - '+.openai.com'
   - '+.auth0.com'
@@ -27,4 +29,4 @@ payload:
   - '+.openaiapi-site.azureedge.net'
   - '+.stripe.com'
   - '+.challenges.cloudflare.com'
-  - '+.onedrive.live.com'
+  

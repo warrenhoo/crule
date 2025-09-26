@@ -11,6 +11,7 @@ payload:
   - '+.onedrive.live.com'
   - '+.github.io'
   - '+.metacubex.one'
+  - '+.th'
   #AI类
   - '+.openai.com'
   - '+.auth0.com'
